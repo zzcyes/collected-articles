@@ -43,6 +43,8 @@ const dataFetchReducer = (state, action) => {
 Reducer Hook 让我们能够**始终得到一个可以预测的状态改变，并且不会遇到无效的状态**。
 
 
+举个例子，之前可能会意外地将 isLoading和 isError 状态设置为 true。在这种情况下，UI中应该显示什么？现在，reducer 函数定义的每个状态转换都会导致一个有效的状态对象。
+
 ```diff
   const useHackerNewsApi = () => {
 -   const [data, setData] = useState({ hits: [] });
