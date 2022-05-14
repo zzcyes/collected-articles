@@ -1,4 +1,4 @@
-https://blog.logrocket.com/advanced-electron-js-architecture/## React
+## React
 
 - [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) — [Robin Wieruch](https://www.robinwieruch.de/)
   - [live demo](https://codesandbox.io/s/btioug)
