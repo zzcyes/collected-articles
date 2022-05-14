@@ -1,4 +1,4 @@
-## React
+https://blog.logrocket.com/advanced-electron-js-architecture/## React
 
 - [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) — [Robin Wieruch](https://www.robinwieruch.de/)
   - [live demo](https://codesandbox.io/s/btioug)
@@ -10,3 +10,6 @@
   - [code](./src/You-Might-Not-Need-Redux/code.jsx) 
   - [notes](./src/You-Might-Not-Need-Redux/notes.md) 
   
+## Electron 
+
+- [Advanced Electron.js architecture](https://blog.logrocket.com/advanced-electron-js-architecture/ ) — [Alain Perkaz](https://blog.logrocket.com/author/alainperkaz/)
