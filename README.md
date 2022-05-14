@@ -13,3 +13,7 @@
 ## Electron 
 
 - [Advanced Electron.js architecture](https://blog.logrocket.com/advanced-electron-js-architecture/ ) — [Alain Perkaz](https://blog.logrocket.com/author/alainperkaz/)
+
+## Chrome
+
+- [Chrome Books](https://www.google.com/googlebooks/chrome/)
