@@ -1,3 +1,7 @@
+## JavaScript
+
+- [A Visual Guide to References in JavaScript](https://daveceddia.com/javascript-references/) — [Dave Ceddia](https://daveceddia.com/)
+
 ## React
 
 - [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) — [Robin Wieruch](https://www.robinwieruch.de/)
@@ -10,6 +14,10 @@
   - [code](./src/You-Might-Not-Need-Redux/code.jsx) 
   - [notes](./src/You-Might-Not-Need-Redux/notes.md) 
   
+- [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/) — [Dave Ceddia](https://daveceddia.com/)
+
+<!-- - [Why Not To Modify React State Directly](https://daveceddia.com/why-not-modify-react-state-directly/) — [Dave Ceddia](https://daveceddia.com/) -->
+
 ## Electron 
 
 - [Advanced Electron.js architecture](https://blog.logrocket.com/advanced-electron-js-architecture/ ) — [Alain Perkaz](https://blog.logrocket.com/author/alainperkaz/)
