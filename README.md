@@ -4,6 +4,8 @@
 
 - [proposal-private-fields/FAQ.md at main · tc39/proposal-private-fields](https://github.com/tc39/proposal-private-fields/blob/main/FAQ.md#why-is-encapsulation-a-goal-of-this-proposal)
 
+- [JavaScript 新语法详解：Class 的私有属性与私有方法 | Fundebug博客](https://blog.fundebug.com/2019/04/23/javascript-class-private-field-and-private-method/)
+
 ## React
 
 - [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) — [Robin Wieruch](https://www.robinwieruch.de/)
