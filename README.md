@@ -2,6 +2,8 @@
 
 - [A Visual Guide to References in JavaScript](https://daveceddia.com/javascript-references/) — [Dave Ceddia](https://daveceddia.com/)
 
+- [proposal-private-fields/FAQ.md at main · tc39/proposal-private-fields](https://github.com/tc39/proposal-private-fields/blob/main/FAQ.md#why-is-encapsulation-a-goal-of-this-proposal)
+
 ## React
 
 - [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) — [Robin Wieruch](https://www.robinwieruch.de/)
