@@ -13,12 +13,12 @@
   - [code](./src/How-to-fetch-data-with-React-Hooks/code.jsx) 
   - [notes](./src/How-to-fetch-data-with-React-Hooks/notes.md) 
 
-- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) — [Dan Abramov](https://medium.com/@dan_abramov)
+- [You Might Not Need Redux](https://medium.com/@**dan_abramov**/you-might-not-need-redux-be46360cf367) — [Dan Abramov](https://medium.com/@dan_abramov)
   - [live demo](https://codesandbox.io/s/gallant-bohr-d2r9l2?file=/src/App.js)
   - [code](./src/You-Might-Not-Need-Redux/code.jsx) 
   - [notes](./src/You-Might-Not-Need-Redux/notes.md) 
   
-- [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/) — [Dave Ceddia](https://daveceddia.com/)
+- [Immutability in React and Redux: The Complete Guide](https://daveceddia.coact-redux-immutability-guide/) — [Dave Ceddia](https://daveceddia.com/)
 
 <!-- - [Why Not To Modify React State Directly](https://daveceddia.com/why-not-modify-react-state-directly/) — [Dave Ceddia](https://daveceddia.com/) -->
 
@@ -29,3 +29,10 @@
 ## Chrome
 
 - [Chrome Books](https://www.google.com/googlebooks/chrome/)
+
+# DevOps
+
+- [大型前端项目 DevOps 沉思录 —— CI 篇](https://zhuanlan.zhihu.com/p/440869239)
+
+
+
